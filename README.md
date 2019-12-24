@@ -1,4 +1,4 @@
-# web1
+# JavaScript
 
 ## JavaScript String Properties and Methods
 
@@ -19,17 +19,21 @@ const = value;
 example
 
     document.querySelector(selector).style.backgroundColor = 'white';
-
     document.querySelector(selector).style.color = 'black';
 
 ## Object
 
-객체는 var objectName = { } 로 선언해준다.
+1. 선언
+   객체는 var objectName = { } 로 선언해준다.
 
-    for(var key in objectName) {
+2. Iterate
 
-        document.write(key : objectName[key]);
-
-    }
+   for(var key in objectName) {
+   document.write(key : objectName[key]);
+   }
 
 객체의 모든 key, value를 불러온다.
+
+3. Property & Method
+   객체에 소속된 변수를 Property
+   객체에 소속된 함수를 Method
