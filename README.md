@@ -13,3 +13,9 @@ constant : 상수
 var = value;
 
 const = value;
+
+## document.querySelector(selector)
+
+ex)document.querySelector(selector).style.backgroundColor = 'white';
+
+ex)document.querySelector(selector).style.color = 'black';
