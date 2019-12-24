@@ -19,3 +19,15 @@ const = value;
 ex)document.querySelector(selector).style.backgroundColor = 'white';
 
 ex)document.querySelector(selector).style.color = 'black';
+
+## Object
+
+객체는 var objectName = { } 로 선언해준다.
+
+for(var key in objectName) {
+
+    document.write(key : objectName[key]);
+
+}
+
+객체의 모든 key, value를 불러온다.
