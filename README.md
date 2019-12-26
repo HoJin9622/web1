@@ -39,3 +39,7 @@ example
 
 객체에 소속된 변수를 Property
 객체에 소속된 함수를 Method
+
+## react
+
+리액트는 이런거다.
